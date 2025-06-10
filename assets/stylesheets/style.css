@@ -300,8 +300,8 @@ main {
 }
 
 .prices_right h3 {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 }
 
 .prices_right table {
